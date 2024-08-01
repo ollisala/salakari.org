@@ -1,4 +1,4 @@
-# Olli Salakari -website
+# salakari.org
 Based on React and Vite. NPM 20+.
 
 ## Dev
